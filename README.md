@@ -1,2 +1,3 @@
-# Recipe-Page
-Frontend Mentor challenge: Recipe Page. (What is it with programming sites and recipe pages?)
+# Frontend Mentor - Recipe page solution
+
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
